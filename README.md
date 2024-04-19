@@ -1,7 +1,7 @@
 # Brief Introduction
 
 Objective of this project was to build different time-series models for each article ID. 
-The project involved historical sales record(on a daily basis) from different countries, Performing data stationarity check and making it stationary if it's not, Building different time-series models for different article IDs, Backtesting for each time-series on the last 10 values and then calculating mean absolute error country wise for the last 10 dates.
+The project involved historical sales record (on a daily basis) from different countries, Performing data stationarity check and making it stationary if it's not, Building different time-series models for different article IDs, Backtesting for each time-series on the last 10 values and then calculating mean absolute error country wise for the last 10 dates.
 ARMA model with other user defined functions were used.
 
 # Details about the project
