@@ -1,4 +1,3 @@
-# Time-Series-Analysis-for-Sales-Data
 # Brief Introduction
 
 Objective of this project was to build different time-series models for each article ID. 
